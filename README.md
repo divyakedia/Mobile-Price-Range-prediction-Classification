@@ -45,7 +45,7 @@ In the competitive mobile phone market companies want to understand sales data o
 # Model applied and Observations:
 ## For Test Set
 |Model|	Accuracy	|Recall	|Precision|	F1_score	|
-|-----|-----|-----|----|------------|-----------|
+|-----|-----|-----|----|------------|
 |0. Logistic Regression|	0.905|	0.9050|0.904787|	0.904481|
 |1.Random Forest	|0.8625 |0.8625	|0.863721|0.862879|
 |2. Random Forest(Tuned)|0.8800	|0.8800	|0.881557|0.880374|	
